@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<?php
+echo "Welcome to ATD world!!!!!! Have a good day";
+?>
+
+</body>
+</html>
